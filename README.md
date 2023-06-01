@@ -46,4 +46,5 @@ The steps of the BFS algorithm used in this code are as follows:
 This example creates a binary matrix and finds the shortest path using the shortestPathBinaryMatrix method. The resulting shortest path length is then printed to the console.
 
     Shortest Path Length: 5
+![image](https://github.com/Siddhipatade/Shortest-path/assets/91780318/2f870c4c-cc26-4fa0-8161-b0af0665c6a8)
 
